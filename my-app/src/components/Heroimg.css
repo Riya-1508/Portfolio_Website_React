@@ -47,10 +47,10 @@
     font-weight: 200;
     text-transform: uppercase;
 }
-.content .btn
+/* .content .btn
 {
-    margin: 1rem 0.2rem;
-}
+    margin: 0.5rem ;
+} */
 @media screen and (max-width: 740px) {
     .hero .content h1 {
             font-size: 2rem;
